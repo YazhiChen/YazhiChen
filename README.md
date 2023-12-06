@@ -8,6 +8,8 @@
 
 * Pronouns: She/her
 
+* [![Yazhi Chen's github stats](https://github-readme-stats.vercel.app/api?username=YazhiChen&theme=dark)](https://github.com/YazhiChen/github-readme-stats)
+
 Cheers
 
 Yazhi Chen
